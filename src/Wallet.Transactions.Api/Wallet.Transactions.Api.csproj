@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Registration.Components\Registration.Components.csproj" />
-    <ProjectReference Include="..\Registration.Contracts\Registration.Contracts.csproj" />
+    <ProjectReference Include="..\Wallet.Transactions.Components\Wallet.Transactions.Components.csproj" />
+    <ProjectReference Include="..\Wallet.Transactions.Contracts\Wallet.Transactions.Contracts.csproj" />
   </ItemGroup>
 
 </Project>

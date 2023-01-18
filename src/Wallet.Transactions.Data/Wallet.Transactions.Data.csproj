@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Registration.Components\Registration.Components.csproj" />
+    <ProjectReference Include="..\Wallet.Transactions.Components\Wallet.Transactions.Components.csproj" />
   </ItemGroup>
 
   <ItemGroup>
